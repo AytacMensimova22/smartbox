@@ -1,0 +1,167 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	width: 100%;
+	min-height: 1000px;
+	background: red;
+	float: left;
+}
+.header{
+	width: 100%;
+	min-height: 100px;
+	background: grey;
+	float: left;
+}
+.center{
+	width: 100%;
+	min-height: 400px;
+	background: green;
+	float: left;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e1/Gaoliang_Bridge.JPG); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.footer{
+	width: 100%;
+	min-height: 500px;
+	background: blue;
+	float: left;
+}
+.header1{
+	width: 30%;
+	min-height: 100px;
+	background: white;
+	float: left;
+}
+.header2{
+	width: 70%;
+	min-height: 100px;
+	background: white;
+	float: left;
+}
+.header2 ul li{
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	float: right;
+	list-style-type: none;
+	margin: 0px 20px;
+	
+}
+.smartbox{
+	font-size: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	float: left;
+	margin: 10px 20px;
+}
+.text1{
+	font-size: 80px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.text2{
+	font-size: 80px;
+	color:white;
+	font-family: courier new;
+	opacity: 0.6;
+}
+.footer1{
+	width: 100%;
+	min-height: 60px;
+	background: white;
+	float: left;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 0px;
+}
+.a{
+	color: black;
+	font-size: 40px
+}
+.footer2{
+	width: 100%;
+	min-height: 440px;
+	background: white;
+	float: left;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	/*padding: 20px 0px;*/
+}
+.heart{
+	width: 25%;
+	min-height: 220px;
+	background: grey;
+	float: left;
+	font-size: 50px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e1/Gaoliang_Bridge.JPG); 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 90%;
+	margin: 0px 50px;
+
+}
+.heart{
+	color: white;
+	
+}
+
+.cube{
+	width: 25%;
+	min-height: 220px;
+	background: grey;
+	float: left;
+	font-size: 50px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e1/Gaoliang_Bridge.JPG); 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 90%;
+}
+.cube{
+	color: white;
+}
+.apple{
+	width: 25%;
+	min-height: 220px;
+	background: grey;
+	float: left;
+	font-size: 50px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e1/Gaoliang_Bridge.JPG); 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 90%;
+	margin: 0px 50px;
+}
+.apple{
+	color: white;
+}
+.settings{
+	width: 25%;
+	min-height: 220px;
+	background: grey;
+	float: left;
+	font-size: 50px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e1/Gaoliang_Bridge.JPG); 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 90%;
+	margin: 0px 50px;
+}
+.settings{
+	color: white;
+}
